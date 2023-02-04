@@ -1,1 +1,5 @@
 redis-alerter
+
+*.env*
+
+!.env.sample
