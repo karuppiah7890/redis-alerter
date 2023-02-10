@@ -5,3 +5,5 @@ redis-alerter
 !.env.sample
 
 *.rdb
+
+*.tar.gz
